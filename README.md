@@ -6,3 +6,4 @@ Features:
   -drag and drop new items
   -nice zoom animation
   -align and resolution changeable
+  
