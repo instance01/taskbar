@@ -1,0 +1,22 @@
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\bin\Debug\taskbar.exe.config
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\obj\Debug\taskbar.Form1.resources
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\obj\Debug\taskbar.Resources.resources
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\obj\Debug\taskbar.vbproj.GenerateResource.Cache
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\bin\Debug\taskbar.exe
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\bin\Debug\taskbar.pdb
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\bin\Debug\taskbar.xml
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\obj\Debug\taskbar.exe
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\obj\Debug\taskbar.xml
+C:\Users\Rnetwork\AppData\Local\Temporary Projects\taskbar\obj\Debug\taskbar.pdb
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\bin\Debug\taskbar.exe.config
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.exe
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.xml
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.pdb
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\bin\Debug\taskbar.exe
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\bin\Debug\taskbar.pdb
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\bin\Debug\taskbar.xml
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.Form1.resources
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.Resources.resources
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.settings.resources
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.vbproj.GenerateResource.Cache
+C:\Users\Rnetwork\Documents\Visual Studio 2012\Projects\taskbar\taskbar\obj\Debug\taskbar.add.resources

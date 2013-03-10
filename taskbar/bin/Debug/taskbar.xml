@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+taskbar
+</name>
+</assembly>
+<members>
+<member name="P:taskbar.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member><member name="P:taskbar.My.Resources.Resources.Culture">
+	<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="P:taskbar.My.Resources.Resources.delete">
+	<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member><member name="T:taskbar.My.Resources.Resources">
+	<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member><member name="F:taskbar.Form1.SLGP_FLAGS.SLGP_SHORTPATH">
+	<summary>Retrieves the standard short (8.3 format) file name</summary>
+</member><member name="F:taskbar.Form1.SLGP_FLAGS.SLGP_UNCPRIORITY">
+	<summary>Retrieves the Universal Naming Convention (UNC) path name of the file</summary>
+</member><member name="F:taskbar.Form1.SLGP_FLAGS.SLGP_RAWPATH">
+	<summary>Retrieves the raw path name. A raw path is something that might not exist and may include environment variables that need to be expanded</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_NO_UI">
+	<summary>
+ Do not display a dialog box if the link cannot be resolved. When SLR_NO_UI is set,
+ the high-order word of fFlags can be set to a time-out value that specifies the
+ maximum amount of time to be spent resolving the link. The function returns if the
+ link cannot be resolved within the time-out duration. If the high-order word is set
+ to zero, the time-out duration will be set to the default value of 3,000 milliseconds
+ (3 seconds). To specify a value, set the high word of fFlags to the desired time-out
+ duration, in milliseconds.
+ </summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_ANY_MATCH">
+	<summary>Obsolete and no longer used</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_UPDATE">
+	<summary>If the link object has changed, update its path and list of identifiers.
+ If SLR_UPDATE is set, you do not need to call IPersistFile::IsDirty to determine
+ whether or not the link object has changed.</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_NOUPDATE">
+	<summary>Do not update the link information</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_NOSEARCH">
+	<summary>Do not execute the search heuristics</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_NOTRACK">
+	<summary>Do not use distributed link tracking</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_NOLINKINFO">
+	<summary>Disable distributed link tracking. By default, distributed link tracking tracks
+ removable media across multiple devices based on the volume name. It also uses the
+ Universal Naming Convention (UNC) path to track remote file systems whose drive letter
+ has changed. Setting SLR_NOLINKINFO disables both types of tracking.</summary>
+</member><member name="F:taskbar.Form1.SLR_FLAGS.SLR_INVOKE_MSI">
+	<summary>Call the Microsoft Windows Installer</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetPath(System.Text.StringBuilder,System.Int32,taskbar.Form1.WIN32_FIND_DATAW@,taskbar.Form1.SLGP_FLAGS)">
+	<summary>Retrieves the path and file name of a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetIDList(System.IntPtr@)">
+	<summary>Retrieves the list of item identifiers for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetIDList(System.IntPtr)">
+	<summary>Sets the pointer to an item identifier list (PIDL) for a Shell link object.</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetDescription(System.Text.StringBuilder,System.Int32)">
+	<summary>Retrieves the description string for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetDescription(System.String)">
+	<summary>Sets the description for a Shell link object. The description can be any application-defined string</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetWorkingDirectory(System.Text.StringBuilder,System.Int32)">
+	<summary>Retrieves the name of the working directory for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetWorkingDirectory(System.String)">
+	<summary>Sets the name of the working directory for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetArguments(System.Text.StringBuilder,System.Int32)">
+	<summary>Retrieves the command-line arguments associated with a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetArguments(System.String)">
+	<summary>Sets the command-line arguments for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetHotkey(System.Int16@)">
+	<summary>Retrieves the hot key for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetHotkey(System.Int16)">
+	<summary>Sets a hot key for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetShowCmd(System.Int32@)">
+	<summary>Retrieves the show command for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetShowCmd(System.Int32)">
+	<summary>Sets the show command for a Shell link object. The show command sets the initial show state of the window.</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.GetIconLocation(System.Text.StringBuilder,System.Int32,System.Int32@)">
+	<summary>Retrieves the location (path and index) of the icon for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetIconLocation(System.String,System.Int32)">
+	<summary>Sets the location (path and index) of the icon for a Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetRelativePath(System.String,System.Int32)">
+	<summary>Sets the relative path to the Shell link object</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.Resolve(System.IntPtr,taskbar.Form1.SLR_FLAGS)">
+	<summary>Attempts to find the target of a Shell link, even if it has been moved or renamed</summary>
+</member><member name="M:taskbar.Form1.IShellLinkW.SetPath(System.String)">
+	<summary>Sets the path and file name of a Shell link object</summary>
+</member><member name="T:taskbar.Form1.IShellLinkW">
+	<summary>The IShellLink interface allows Shell links to be created, modified, and resolved</summary>
+</member>
+</members>
+</doc>
