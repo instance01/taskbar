@@ -5,12 +5,13 @@ Just a little taskbar for windows.
 
 
 Features:
+========
 
--drag and drop new items
+- drag and drop new items
 
--nice zoom animation
+- nice zoom animation
 
--align and resolution changeable
+- align and resolution changeable
 
   
 ![taskbar preview](taskbar_1.png "taskbar preview")
